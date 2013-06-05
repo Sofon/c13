@@ -1,4 +1,3 @@
-
 #include <iostream.h>
 #include <conio.h>
 #include <stdlib.h>
@@ -6,7 +5,7 @@
 void printArray ( int [] ); int main() {
 int n,i,k;
 float *a;
-float *c;
+
 float s,p,h;
 
 printf("n=? ");
@@ -32,7 +31,7 @@ printf("Max=");
 printf("%4.0f", h);
 printf("\n");
 printf("Press any key") ;
-getch(); // ожидание нажатия клавиши
+getch(); // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 
 
 }
