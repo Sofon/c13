@@ -1,10 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
+<<<<<<< HEAD
     <Transaction>1899.12.30 00:00:00.000.028,=C:\Users\Sofon\Documents\RAD Studio\Projects\File1.cpp</Transaction>
     <Transaction>1899.12.30 00:00:00.000.224,C:\Users\Sofon\Desktop\c++12\File1.cpp=C:\Users\Sofon\Documents\RAD Studio\Projects\File1.cpp</Transaction>
     <Transaction>1899.12.30 00:00:00.000.283,C:\Users\Sofon\Desktop\c++12\Project1.cbproj=C:\Users\Sofon\Desktop\c++12\Project1.cbproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.509,C:\Users\пвапвапва\Documents\GitHub\c13\Project1.cbproj=C:\Users\пвапвапва\Documents\GitHub\c13\Project1.cbproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.370,C:\Users\Sofon\Desktop\c++12\Project1.cbproj=C:\Users\Sofon\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+=======
+    <Transaction>1899.12.30 00:00:00.000.224,C:\Users\Sofon\Documents\RAD Studio\Projects\File1.cpp=C:\Users\Sofon\Desktop\c++12\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.370,C:\Users\Sofon\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\Sofon\Desktop\c++12\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.028,=C:\Users\Sofon\Documents\RAD Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.283,C:\Users\Sofon\Desktop\c++12\Project1.cbproj=C:\Users\Sofon\Desktop\c++12\Project1.cbproj</Transaction>
+    <Transaction>2013.06.04 18:43:19.509,C:\Users\пвапвапва\Documents\GitHub\c13\Project1.cbproj=C:\Users\пвапвапва\Documents\GitHub\c13\Project1.cbproj</Transaction>
+>>>>>>> 66e9ad60fea109c7fc850230c132180c0a6ad899
   </Transactions>
 </BorlandProject>
